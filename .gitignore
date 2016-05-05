@@ -8,4 +8,7 @@
 /captures
 #heqinglin后期添加
 *.idea
+.gradle/
+build/
+.idea/
 
