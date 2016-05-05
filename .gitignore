@@ -11,4 +11,11 @@
 .gradle/
 build/
 .idea/
+#不提交到github的重要文件
+recyclerview/
+ahwebview/
+ahcommonlib/
+socialsdklibrary/
+autohomelib/
+
 

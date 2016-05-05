@@ -1,1 +1,7 @@
 include ':app'
+include ':qualityfeedback'
+include ':recyclerview'
+include ':ahwebview'
+include ':ahcommonlib'
+include ':socialsdklibrary'
+include ':autohomelib'
